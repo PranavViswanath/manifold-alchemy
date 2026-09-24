@@ -1,0 +1,8 @@
+fairchem-core>=2.22
+ase
+pymatgen
+scipy
+scikit-learn
+matplotlib
+nbformat
+jupyter
