@@ -34,6 +34,8 @@ objective (activity apex, cation redox window, conductivity, not Ir/Ru/Pt) the m
 palladium/rhodium ridge in three steps, and names rhodium as an untested candidate. Write-up, objective, data and an
 interactive page in [`palladium/`](palladium/README.md).
 
+**Using the walk on a new problem:** see [`PIPELINE.md`](PIPELINE.md) for the protocol and the failures it was built from.
+
 ## Reproduce it
 
 **Colab (no setup):** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PranavViswanath/manifold-alchemy/blob/main/walkthrough_colab.ipynb) — `walkthrough_colab.ipynb` is fully standalone: it installs fairchem, asks for your Hugging Face token, fetches the two data files from this repo, and runs on a T4.
