@@ -26,6 +26,9 @@ Three correct predictions, from traveling a surface that a neural network learne
 
 ## Reproduce it
 
+**Colab (no setup):** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PranavViswanath/manifold-alchemy/blob/main/walkthrough_colab.ipynb) — `walkthrough_colab.ipynb` is fully standalone: it installs fairchem, asks for your Hugging Face token, fetches the two data files from this repo, and runs on a T4.
+
+**Locally:**
 ```
 pip install -r requirements.txt        # needs a Hugging Face token with access to facebook/UMA
 jupyter notebook walkthrough.ipynb     # 43 short cells, ~10 min on a laptop GPU with the cached landscape
@@ -33,6 +36,7 @@ jupyter notebook walkthrough.ipynb     # 43 short cells, ~10 min on a laptop GPU
 
 | file | what it is |
 |---|---|
+| `walkthrough_colab.ipynb` | the same walkthrough, standalone for Colab (library inlined, data fetched from GitHub) |
 | `walkthrough.ipynb` | load UMA → open its element tables → plot its periodic table → virtual atoms → the continuous chart → the RuO₂ problem → the objective → the gradient → the landscape → the walk → confirm against exact substitution and the literature |
 | `uma_manifold.py` | the whole method in ~150 lines: `VirtualUMA` (any atom carries any element vector), `Chart` (the continuous periodic table), `walk` (gradient ascent on it) |
 | `data/ruo2_110_slab.json` | the RuO₂(110) surface, with the active Ru site and dopant positions |
