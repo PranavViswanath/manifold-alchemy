@@ -24,6 +24,16 @@ The curvature of the surface (the second derivative/Hessian) turns out to encode
 
 Three correct predictions, from traveling a surface that a neural network learned from energies and nobody told it was there. Our job: find where the manifold takes us for unsolved materials challenges!
 
+
+## Second walk: from RuO₂ to palladium (Sept 25 2026)
+
+![From RuO2 to the Pd/Rh ridge](media/host_walk.gif)
+
+Lila Sciences' autonomous lab found palladium-oxide acid anodes after 2,942 experiments (arXiv:2609.30133). With the right
+objective (activity apex, cation redox window, conductivity, not Ir/Ru/Pt) the manifold walk goes from ruthenium to the
+palladium/rhodium ridge in three steps, and names rhodium as an untested candidate. Write-up, objective, data and an
+interactive page in [`palladium/`](palladium/README.md).
+
 ## Reproduce it
 
 **Colab (no setup):** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PranavViswanath/manifold-alchemy/blob/main/walkthrough_colab.ipynb) — `walkthrough_colab.ipynb` is fully standalone: it installs fairchem, asks for your Hugging Face token, fetches the two data files from this repo, and runs on a T4.

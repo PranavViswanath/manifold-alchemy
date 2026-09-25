@@ -1,0 +1,158 @@
+{
+ "Ag": {
+  "oxide": "AgHO2",
+  "gap": 0.0,
+  "ehull": 0.0,
+  "n": 2
+ },
+ "Al": {
+  "oxide": null,
+  "gap": null
+ },
+ "Bi": {
+  "oxide": null,
+  "gap": null
+ },
+ "Co": {
+  "oxide": null,
+  "gap": null
+ },
+ "Cr": {
+  "oxide": null,
+  "gap": null
+ },
+ "Cu": {
+  "oxide": null,
+  "gap": null
+ },
+ "Fe": {
+  "oxide": null,
+  "gap": null
+ },
+ "Ge": {
+  "oxide": "GeO2",
+  "gap": 1.2428,
+  "ehull": 0.0,
+  "n": 9
+ },
+ "Hf": {
+  "oxide": null,
+  "gap": null
+ },
+ "In": {
+  "oxide": null,
+  "gap": null
+ },
+ "Mn": {
+  "oxide": null,
+  "gap": null
+ },
+ "Mo": {
+  "oxide": "MoO3",
+  "gap": 1.8342999999999998,
+  "ehull": 0.0,
+  "n": 17
+ },
+ "Nb": {
+  "oxide": null,
+  "gap": null
+ },
+ "Ni": {
+  "oxide": null,
+  "gap": null
+ },
+ "Pb": {
+  "oxide": "PbO2",
+  "gap": 0.0,
+  "ehull": 0.0,
+  "n": 7
+ },
+ "Pd": {
+  "oxide": "PdO2",
+  "gap": 0.0,
+  "ehull": 0.0,
+  "n": 2
+ },
+ "Re": {
+  "oxide": null,
+  "gap": null
+ },
+ "Sb": {
+  "oxide": "Sb2O5",
+  "gap": 0.48989999999999956,
+  "ehull": 0.0,
+  "n": 7
+ },
+ "Si": {
+  "oxide": null,
+  "gap": null
+ },
+ "Sn": {
+  "oxide": "SnO2",
+  "gap": 0.6607000000000003,
+  "ehull": 0.0,
+  "n": 30
+ },
+ "Ta": {
+  "oxide": null,
+  "gap": null
+ },
+ "Ti": {
+  "oxide": "TiO2",
+  "gap": 2.0629999999999997,
+  "ehull": 0.0,
+  "n": 46
+ },
+ "V": {
+  "oxide": null,
+  "gap": null
+ },
+ "W": {
+  "oxide": "WO3",
+  "gap": 1.353,
+  "ehull": 0.0,
+  "n": 41
+ },
+ "Zn": {
+  "oxide": null,
+  "gap": null
+ },
+ "Zr": {
+  "oxide": null,
+  "gap": null
+ },
+ "Ru": {
+  "oxide": "RuO4",
+  "gap": 2.4250999999999996,
+  "ehull": 0.0,
+  "n": 2
+ },
+ "Ir": {
+  "oxide": "IrO2",
+  "gap": 0.0,
+  "ehull": 0.0,
+  "n": 3
+ },
+ "Pt": {
+  "oxide": "PtO2",
+  "gap": 0.6012000000000004,
+  "ehull": 0.0,
+  "n": 6
+ },
+ "Rh": {
+  "oxide": "RhO2",
+  "gap": 0.0,
+  "ehull": 0.0,
+  "n": 1
+ },
+ "Os": {
+  "oxide": "OsO4",
+  "gap": 3.3769,
+  "ehull": 0.0,
+  "n": 3
+ },
+ "Au": {
+  "oxide": null,
+  "gap": null
+ }
+}
